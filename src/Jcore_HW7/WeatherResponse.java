@@ -1,7 +1,5 @@
 package Jcore_HW7;
 
-import Jcore_HW7.DailyForecast;
-
 import javax.json.JsonObject;
 import javax.json.JsonArray;
 
